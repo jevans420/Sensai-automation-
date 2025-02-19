@@ -1,0 +1,2 @@
+# Sensai-automation-
+Automations script 
