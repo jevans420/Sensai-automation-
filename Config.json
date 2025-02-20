@@ -1,0 +1,10 @@
+{
+    "twitter_api_key": "YOUR_TWITTER_API_KEY",
+    "twitter_api_secret": "YOUR_TWITTER_API_SECRET",
+    "reddit_client_id": "YOUR_REDDIT_CLIENT_ID",
+    "reddit_client_secret": "YOUR_REDDIT_CLIENT_SECRET",
+    "fansly_api_key": "YOUR_FANSLY_API_KEY",
+    "posting_interval": 3600,
+    "dm_auto_reply": true,
+    "engagement_tracking": true
+}
